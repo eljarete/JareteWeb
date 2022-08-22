@@ -1,0 +1,25 @@
+{
+  "name": "jareteweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel.index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jared Arroyo Martín",
+    "email": "jararrmar@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljarete/JareteWeb.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljarete/JareteWeb/issues"
+  },
+  "homepage": "https://github.com/eljarete/JareteWeb#readme"
+}
