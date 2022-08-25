@@ -18,6 +18,12 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  padding: 1rem 10%;
+}
+
+body {
+  margin: 0;
+  background-color: #d9e4d7;
 }
 
 nav {
